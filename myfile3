@@ -2,3 +2,10 @@ Guest
 Shared
 administrator
 olmsja01
+total 24
+drwxr-xr-x   6 olmsja01  staff  204 Nov 23 22:59 .
+drwxr-xr-x   3 olmsja01  staff  102 Nov 23 22:55 ..
+drwxr-xr-x  12 olmsja01  staff  408 Nov 23 23:02 .git
+-rw-r--r--   1 olmsja01  staff   31 Nov 23 23:02 my_file
+-rw-r--r--   1 olmsja01  staff  288 Nov 23 22:58 myfile2
+-rw-r--r--   1 olmsja01  staff   36 Nov 23 22:58 myfile3
